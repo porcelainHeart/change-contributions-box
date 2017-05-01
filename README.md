@@ -9,7 +9,7 @@
 
 - 改变后:<br>
 
-<img src="images/count_change_done.png" width="600px">
+<img src="images/count-change-done.png" width="600px">
 
 ### 使用方法
 
